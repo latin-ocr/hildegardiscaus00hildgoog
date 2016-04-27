@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./hildegardiscaus00hildgoog_0006.png"; bbox 0 0 2680 3938; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 108 348 1158 977">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 108 348 1158 977">
+     <span class='ocr_line' id='line_1_1' title="bbox 252 348 1158 611; baseline 0.001 -1"><span class='ocrx_word' id='word_1_1' title='bbox 252 437 972 611; x_wconf 68' lang='lat' dir='ltr'><strong>HILDEGARDIS</strong></span> <span class='ocrx_word' id='word_1_2' title='bbox 1155 348 1158 354; x_wconf 29' lang='lat'><em>⁶</em></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 108 833 1113 977; baseline 0.004 -7"><span class='ocrx_word' id='word_1_3' title='bbox 108 833 519 977; x_wconf 74' lang='lat' dir='ltr'>CAUSAE</span> <span class='ocrx_word' id='word_1_4' title='bbox 572 842 703 975; x_wconf 76' lang='lat' dir='ltr'><strong>ET</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 759 835 1113 977; x_wconf 75' lang='lat' dir='ltr'><strong>CURAE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 366 1627 885 1756">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 366 1627 885 1756">
+     <span class='ocr_line' id='line_1_3' title="bbox 366 1627 885 1756; baseline -0.004 0"><span class='ocrx_word' id='word_1_6' title='bbox 366 1671 599 1756; x_wconf 77' lang='lat' dir='ltr'>PAULUS</span> <span class='ocrx_word' id='word_1_7' title='bbox 633 1627 885 1756; x_wconf 47' lang='lat' dir='ltr'><strong>KAISER&#39;</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 0 0 1344 3938">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 0 0 1344 3938">
+     <span class='ocr_line' id='line_1_4' title="bbox 0 0 1344 3938; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 0 0 1344 3938; x_wconf 95' lang='lat' dir='ltr'><strong> </strong></span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
